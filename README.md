@@ -26,7 +26,7 @@ I am a passionate and creative Flutter developer focused on building elegant and
 - **Languages**: Dart
 - **Frameworks & Libraries**: Flutter, Firebase, Node.js
 - **Tools**: Git, GitHub, Visual Studio Code, Android Studio
-- **Databases**: Firebase, SQLite
+- **Databases**: Firebase, SQLite, Supabase
 
 ---
 
