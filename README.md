@@ -1,39 +1,71 @@
-<h1 align="center">Hi 👋, I'm Osama Nabil</h1>
-<h3 align="center">Creative Flutter Developer | Enhancing User Experiences with Elegant Solutions</h3>
+# Hi 👋, I'm Osama Nabil
+## Creative Flutter Developer | Enhancing User Experiences with Elegant Solutions
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01121922383osama&label=Profile%20views&color=0e75b6&style=flat" alt="01121922383osama" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01121922383osama" alt="01121922383osama" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **as a Freelancer specializing in Flutter development**
-
-- 🌱 I’m currently learning **backend with serverpod**
-
-- 🤝 I’m looking for help with **any Application build by Flutter**
-
-- 👨‍💻 All of my projects are available at [https://github.com/01121922383osama](https://github.com/01121922383osama)
-
-- 💬 Ask me about **Dart , Flutter**
-
-- 📫 How to reach me **alposama854@gmail.com**
-
-- ⚡ Fun fact **I THINK I'M FUNNY😊😂😂**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/osama-nabil-988925268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-nabil-988925268" height="30" width="120" /></a>
+  <img src="https://komarev.com/ghpvc/?username=01121922383osama&label=Profile%20views&color=0e75b6&style=flat" alt="01121922383osama" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="120" height="120"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="120" height="120"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="120" height="120"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="120" height="120"/> </a> </p>
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/osama-nabil" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/osama_nabil" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/osama_nabil" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/osama854"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="osama854" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=01121922383osama&show_icons=true&locale=en&layout=compact" alt="01121922383osama" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=01121922383osama&show_icons=true&locale=en" alt="01121922383osama" /></p>
+I am a passionate and creative Flutter developer focused on building elegant and user-friendly mobile applications. With expertise in UI/UX design and a strong foundation in Flutter, I strive to create applications that provide a seamless user experience.
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=01121922383osama&" alt="01121922383osama" /></p>
+- 💡 I enjoy solving complex problems with clean and efficient code.
+- 🚀 Always learning and staying up to date with the latest trends in mobile development.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Dart, JavaScript, HTML, CSS, SQL
+- **Frameworks & Libraries**: Flutter, Firebase, Node.js, React
+- **Tools**: Git, GitHub, Visual Studio Code, Android Studio
+- **Databases**: Firebase, SQLite
+- **UI/UX Design**: Figma, Adobe XD
+
+---
+
+## 📊 GitHub Stats
+
+![Osama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=01121922383osama&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=01121922383osama&layout=compact&theme=tokyonight)](https://github.com/01121922383osama)
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=01121922383osama&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📂 Projects
+
+### 🚀 **Project Name 1**
+- **Description**: A brief description of your project, highlighting what makes it special and any key technologies you used.
+- **Tech Stack**: Flutter, Firebase, API integration
+- **Link**: [GitHub Repo](https://github.com/01121922383osama/project-name-1)
+
+### 🖥️ **Project Name 2**
+- **Description**: Another project description.
+- **Tech Stack**: Flutter, Node.js, MongoDB
+- **Link**: [GitHub Repo](https://github.com/01121922383osama/project-name-2)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: osama.nabil@email.com
+- 🌐 Website: [osama.dev](https://osama.dev)
+
+---
+
+### Thanks for visiting my profile! Feel free to connect with me on LinkedIn or check out my work on GitHub. 😊
