@@ -20,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" width="100%" height="5"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+## 🚀 About Me
 
 <div align="center">
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devgi/devgi/main/computer.gif"/>
