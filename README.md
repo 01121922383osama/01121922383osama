@@ -28,12 +28,12 @@
 
 > "Crafting pixel-perfect experiences with Flutter magic ✨"
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Dart.png" alt="Dart" width="25" height="25" /> Specialized in **Flutter** and **Dart** development
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" height="25" /> Passionate about creating intuitive user interfaces
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Seedling" width="25" height="25" /> Currently exploring **Advanced State Management**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Building the next generation of mobile experiences
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Expert in cross-platform development
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> UI/UX enthusiast with an eye for detail
+- 🎯 Specialized in **Flutter** and **Dart** development
+- 💡 Passionate about creating intuitive user interfaces
+- 🌱 Currently exploring **Advanced State Management**
+- ⚡ Building the next generation of mobile experiences
+- 📱 Expert in cross-platform development
+- 🎨 UI/UX enthusiast with an eye for detail
 
 <br clear="both">
 
@@ -78,14 +78,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=01121922383osama&theme=algolia&hide_border=true&border_radius=10&ring=02569B&fire=02569B&currStreakLabel=02569B)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=01121922383osama&theme=algolia&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> Featured Projects
-
-<div align="center">
-  
-[![Shop App](https://github-readme-stats.vercel.app/api/pin/?username=01121922383osama&repo=shop_app_pro_1&theme=algolia&hide_border=true)](https://github.com/01121922383osama/shop_app_pro_1)
 
 </div>
 
